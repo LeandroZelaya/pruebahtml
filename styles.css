@@ -1,0 +1,37 @@
+p.warning, p.alert{
+    color: yellow;
+    font-family: Arial,sans-serif;
+    margin : 1px;
+    font-size: 3em;
+    border-radius: 100px;
+    }
+p.rojo{
+    color: red;
+}
+h1.warning{
+    color: blue;
+}
+a#yt{
+    color: black;
+    font-size: 5em;
+    text-decoration: none;
+}
+a#yt:hover{
+    color: red;
+
+}
+div#box{ border: 1px     solid blue;}
+.navluis{
+    width: 15em;
+    height: auto; }
+table, th, td, tr, #tabla
+{
+    border: 1px solid black;
+    font-size: 100px;
+    border-collapse: collapse;
+}
+
+
+em#cursi{
+    font-size: 5em;
+}
